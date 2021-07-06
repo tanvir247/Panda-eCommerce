@@ -1,0 +1,43 @@
+.container{
+    margin-bottom: 50px;
+
+}
+.carousel{
+background-color: #FEEAE9;
+}
+.carousel-item{
+    padding: 20px 30px;
+}
+.buy-button{
+    background-color: #FF589B;
+    padding: 10px 20px;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 10px;
+}
+.pink-bg{
+    color: #f8136f;
+    font: 41px
+    ;
+}
+.cat1, .cat2, .cat3{  
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: #FF9C35;
+}
+.cat2{
+    background-color: #FF589B;
+
+}
+.cat3{
+    background-color: #4289FF;
+}
+.catagory img{
+    width: 100px;
+}
+.catagory h1{
+    color: #FFFFFF;
+
+}
