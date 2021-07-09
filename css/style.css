@@ -23,6 +23,7 @@ background-color: #FEEAE9;
 .cat1, .cat2, .cat3{  
     padding: 20px 30px;
     border-radius: 10px;
+    margin-bottom: 15px;
 }
 .cat1{
     background-color: #FF9C35;
